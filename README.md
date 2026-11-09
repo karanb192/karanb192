@@ -9,6 +9,7 @@ I build open-source tools for AI coding agents and write about what I learn from
 - **Understand cache costs:** [Cache Tax](https://github.com/karanb192/cache-tax) estimates the rewrite cost before a cold send and can keep selected sessions warm during breaks. Warming costs tokens; estimates use API-equivalent prices, not extra subscription charges.
 - **Compare mods:** [Awesome Claude Code Mods](https://github.com/karanb192/awesome-claude-code-mods) is a catalogue of community mods, with scan results showing what each one can access. The scan is a static check of the source, not a safety rating.
 - **File an Indian tax return:** [itr-wala](https://github.com/karanb192/itr-wala) is a skill for Claude Code, Codex, and Gemini that prepares an Indian income tax return from your terminal. Tested code does the tax math, not the model. You pay, submit, and e-verify yourself, and it is not professional tax advice.
+- **Read Reddit from an AI assistant:** [Reddit MCP Buddy](https://github.com/karanb192/reddit-mcp-buddy) is an MCP server for browsing and searching Reddit. It works only with Reddit API credentials that Reddit has already approved; Reddit no longer accepts new requests.
 - **Read or watch:** [Writing](https://karanbansal.in/blog/) and [talks](https://karanbansal.in/talks/) on AI systems, coding agents, and agent security.
 
 [More about me](https://karanbansal.in/)
